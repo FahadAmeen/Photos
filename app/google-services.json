@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "209973050532",
+    "firebase_url": "https://photo-88f0a.firebaseio.com",
+    "project_id": "photo-88f0a",
+    "storage_bucket": "photo-88f0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209973050532:android:73dfb2d586b2f489",
+        "android_client_info": {
+          "package_name": "com.example.fahdamin.photo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209973050532-9op5kd402ma6kmbkt0mj956jkdm4vjp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fahdamin.photo",
+            "certificate_hash": "27713e5275dfbb13ec0fd6e7bf8d72fcc4b8fa53"
+          }
+        },
+        {
+          "client_id": "209973050532-8doke8vh2fvh7d5318r63ovd9b27tee8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqvrURd10rNYXbzqxuH9eCPpyGj2InDAk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209973050532-8doke8vh2fvh7d5318r63ovd9b27tee8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
