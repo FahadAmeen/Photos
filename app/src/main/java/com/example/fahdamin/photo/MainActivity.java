@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(homeIntent);
                 finish();
             }
-        },3000);//sleep 2.5s
+        },5000);//sleep 5s
     }
 }

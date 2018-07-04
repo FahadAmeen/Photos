@@ -121,7 +121,13 @@ public class CategoryFragment extends Fragment {
 
         recyclerView=(RecyclerView)view.findViewById(R.id.recyclerCategory);
         recyclerView.setHasFixedSize(true);
-        GridLayoutManager gridLayoutManager=new GridLayoutManager(getActivity(),2);
+
+        ////////////
+        //Change number of columns
+
+        GridLayoutManager gridLayoutManager=new GridLayoutManager(getActivity(),1);
+
+
         recyclerView.setLayoutManager(gridLayoutManager);
 
         setCategory();
